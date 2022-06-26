@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "Bot para Subir a las Moodle V7.2 Modded",
   "description": "By t.me/AresDza",
   "env": {
@@ -9,6 +9,10 @@
     "bot_token": {
       "description": "Token del BOT (Se obtiene en BOT Father)",
       "value": ""
+    },
+   "password": {
+      "description": "Contraseña de Despliegue (SI NO TIENES LA CONTRASEÑA NO PODRÁS DESPLEGAR)",
+      "value": "" 
     }
   },
   "buildpacks": [
@@ -17,3 +21,4 @@
     }
   ]
 }
+
