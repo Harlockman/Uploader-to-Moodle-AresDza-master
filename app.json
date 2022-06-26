@@ -9,10 +9,6 @@
     "bot_token": {
       "description": "Token del BOT (Se obtiene en BOT Father)",
       "value": ""
-    },
-   "password": {
-      "description": "Contraseña de Despliegue (SI NO TIENES LA CONTRASEÑA NO PODRÁS DESPLEGAR)",
-      "value": "" 
     }
   },
   "buildpacks": [
